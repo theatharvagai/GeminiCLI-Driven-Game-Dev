@@ -1,51 +1,107 @@
-# 🎮 Gemini CLI Game Development
+# 🎮✨ Gemini CLI Game Development
 
-### AI-Assisted Game Built Using Google Gemini CLI
+### 🤖 AI-First Game Built Using Google Gemini CLI (No Traditional IDE)
 
-🚀 This project demonstrates game development using only the Command Line Interface (CLI) powered by Google Gemini, without relying on traditional IDE-driven workflows.
-The game was conceptualized, structured, and developed through AI-assisted prompt engineering and terminal-based development.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00FFCC&center=true&vCenter=true&width=1000&lines=AI-Assisted+Game+Development;Built+Using+Gemini+CLI;Prompt+Engineered+Game+Creation;CLI-Only+Development+Workflow" />
+</p>
 
----
-
-## 🧠 Project Concept
-
-This repository showcases an experimental approach to software and game development where an AI model (Google Gemini) is used via CLI to generate, refine, and build a functional browser-based game.
-
-Instead of conventional coding workflows, the entire development pipeline focused on:
-
-* AI-driven code generation
-* CLI-based development process
-* Iterative prompt engineering
-* Rapid prototyping using LLM assistance
-
-This makes the project a unique blend of AI, game development, and developer tooling innovation.
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Gemini%20CLI-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Development-CLI%20First-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Type-AI%20Game%20Project-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Workflow-Prompt%20Engineering-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Experimental-red?style=for-the-badge" />
+</p>
 
 ---
 
-## 🎯 Features
+# 🚀 Project Overview
 
-✨ AI-assisted game logic generation
-🎮 Interactive gameplay mechanics
-📊 Real-time score tracking
-🎵 Background music and sound effects
-🖥️ Clean UI with HTML, CSS, and JavaScript
-⚡ Lightweight and fast browser execution
-🧪 Experimental CLI-first development workflow
+**Gemini CLI Game Development** is an experimental AI-first game development project where the entire game was conceptualized, structured, and built using only the Google Gemini CLI — without relying on traditional IDE-based workflows.
+
+Instead of manually coding everything from scratch, this project explores how **LLMs + CLI + Prompt Engineering** can accelerate real-world software development.
 
 ---
 
-## 🛠️ Tech Stack
+# 🧠 Core Concept
 
-* HTML5
-* CSS3
-* JavaScript
-* Google Gemini (CLI-based AI development)
-* Prompt Engineering
-* Web Audio Integration
+This repository demonstrates a modern development paradigm where:
+
+* AI acts as a coding assistant via CLI
+* Development happens through prompt-driven iterations
+* Rapid prototyping replaces traditional development cycles
+
+The project blends:
+
+> 🎮 Game Development + 🤖 Generative AI + 💻 CLI Engineering
 
 ---
 
-## 🏗️ Project Structure
+# 🏗️ Development Architecture
+
+```
+        Developer Prompts (CLI)
+                 ↓
+         Google Gemini (LLM)
+                 ↓
+      AI Code Generation & Refinement
+                 ↓
+      HTML + CSS + JS Game Components
+                 ↓
+        Playable Browser-Based Game
+```
+
+---
+
+# ⚙️ AI-Driven Workflow
+
+1️⃣ Prompt engineering via Gemini CLI
+2️⃣ AI generates game structure & logic
+3️⃣ Iterative refinement through terminal commands
+4️⃣ Integration of UI, gameplay, and audio
+5️⃣ Final playable browser game deployment
+
+This showcases a **CLI-first AI development lifecycle**.
+
+---
+
+# 🎯 Key Features
+
+🎮 Interactive Gameplay Mechanics
+🤖 AI-Assisted Code Generation
+📊 Real-Time Score Tracking System
+🎵 Background Music & Collision Sound Effects
+🖥️ Clean Browser-Based UI (HTML/CSS/JS)
+⚡ Lightweight & Fast Execution
+🧪 Experimental AI + CLI Development Workflow
+
+---
+
+# 🎥 Gameplay Preview
+
+<p align="center">
+  <img src="gameplay.gif" width="850"/>
+</p>
+
+> 📌 Add a gameplay GIF or screenshot here to make the repo look 10/10
+
+---
+
+# 🛠️ Tech Stack
+
+| Category    | Technology             |
+| ----------- | ---------------------- |
+| Frontend    | 🌐 HTML5               |
+| Styling     | 🎨 CSS3                |
+| Logic       | ⚡ JavaScript           |
+| AI Tool     | 🤖 Google Gemini (CLI) |
+| Methodology | 🧠 Prompt Engineering  |
+| Audio       | 🎵 Web Audio API       |
+
+---
+
+# 📂 Project Structure
 
 ```
 📁 Gemini-CLI-Game
@@ -58,74 +114,94 @@ This makes the project a unique blend of AI, game development, and developer too
 
 ---
 
-## 💡 How This Project is Different
+# 💡 What Makes This Project Unique
 
-Most games are built using IDEs and manual coding.
-This project explores a modern AI-first workflow where:
+Unlike traditional game development:
 
-* The game was developed using only CLI interactions
-* AI assisted in logic generation and structure
-* Development relied heavily on prompt engineering skills
+* ❌ No heavy IDE-based coding workflow
+* ❌ No manual full-stack setup
+* ✅ AI-assisted development via CLI
+* ✅ Prompt-driven rapid prototyping
+* ✅ Future-oriented developer tooling experiment
 
-This highlights the future of AI-augmented software development.
+This project explores the **future of AI-augmented software engineering**.
 
 ---
 
-## ▶️ How to Run the Game
+# ▶️ How to Run the Game
 
-1. Clone the repository
+## 1️⃣ Clone the Repository
 
-```
+```bash
 git clone https://github.com/your-username/Gemini-CLI-Game.git
 ```
 
-2. Navigate to the project folder
+## 2️⃣ Navigate to the Project Folder
 
-```
+```bash
 cd Gemini-CLI-Game
 ```
 
-3. Open `index.html` in your browser
+## 3️⃣ Launch the Game
 
-That’s it! 🎉
+Simply open:
 
----
+```bash
+index.html
+```
 
-## 📸 Preview
-
-(Add screenshots or gameplay GIF here for better GitHub engagement)
-
----
-
-## 📚 Learning Outcomes
-
-* Practical usage of AI in software development
-* CLI-based development workflow
-* Prompt engineering for code generation
-* Rapid prototyping using LLM tools
-* UI + Game logic integration
+in your browser and start playing 🎉
 
 ---
 
-## 👨‍💻 Author
+# 🧩 System Pipeline
 
-Atharva
+```
+Prompt → AI Generation → Code Refinement → Game Logic → UI Rendering → Playable Game
+```
+
+---
+
+# 📚 Learning Outcomes
+
+🧠 Practical AI-Assisted Development
+💻 CLI-Based Software Engineering
+🤖 Prompt Engineering for Code Generation
+⚡ Rapid Prototyping with LLM Tools
+🎮 Frontend Game Logic Integration
+🚀 Experimental AI Development Workflow
+
+---
+
+# 🔮 Future Improvements
+
+* 🎮 Multiple Levels & Difficulty Scaling
+* 📱 Mobile Responsiveness
+* 🎨 Advanced Animations & Effects
+* 🤖 AI-Generated Dynamic Obstacles
+* 🌐 Web Deployment & Hosting
+* 🕹️ Multiplayer Mode (Experimental)
+
+---
+
+# 🌍 Potential Use Cases
+
+* AI-Assisted Game Development Research
+* Developer Tooling Experiments
+* Prompt Engineering Demonstrations
+* GenAI Workflow Showcases
+* Educational AI + Coding Projects
+
+---
+
+# 👨‍💻 Author
+
+**Atharva**
 M.Tech CSE @ VIT Vellore
-AI | Game Development | Fitness | Tech
+AI • Game Development • GenAI • Developer Tooling
 
 ---
 
-## ⭐ Future Improvements
+# ⭐ Final Note
 
-* Add levels and difficulty scaling
-* Mobile responsiveness
-* Advanced animations
-* AI-generated dynamic obstacles
-* Deployment as a web game
-
----
-
-## 🔥 Final Note
-
-This project represents a step towards the future of AI-assisted development, where developers collaborate with AI tools through CLI to build real-world applications efficiently.
-
+This project represents a step toward the future of software development where developers collaborate with AI models via CLI to build real-world applications faster, smarter, and more efficiently.
